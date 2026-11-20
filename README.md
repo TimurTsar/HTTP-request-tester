@@ -41,7 +41,7 @@ The project was created to practice Python programming, HTTP fundamentals, reque
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/TimurTsar/HTTP-request-tester.git
 ```
 
 Navigate to the project directory:
